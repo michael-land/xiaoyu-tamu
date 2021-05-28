@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Michael Li.</h2>
 
-<!--
-**xiaoyu-tamu/xiaoyu-tamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠 I’m currently working at **A eCommerce Company for Full Stack Developer in Houston, Texas**
+- 🚀 I’m currently learning **Vite and Browser Extension**
+- 💬 Ask me about **React, TypeScript, Node, and Golang**
+- 😃 Moreover: I'm always looking for something to do
 
-Here are some ideas to get you started:
+📊 **Languages**
+```text
+TypeScript    █████████████████████████
+CSS           █████████████████████████
+HTML          █████████████████████████
+Python        ███████████████████░░░░░░
+PHP           ████████████████░░░░░░░░░
+Go            ████████████░░░░░░░░░░░░░
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Database**
+```
+PostgreSQL    █████████████████████████
+MySQL         ███████████████████░░░░░░
+MongoDB       ███████████████████░░░░░░
+Redis         ████████████████░░░░░░░░░
+```
+
+📊 **Frameworks / Runtimes **
+```
+React         █████████████████████████
+Node          █████████████████████████
+Django        ███████████████████░░░░░░
+Wordpress     █████████████░░░░░░░░░░░░
+
+```
