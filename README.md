@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Michael Li.</h2>
 
 - 🛠 I’m currently working at **A eCommerce Company for Full Stack Developer in Houston, Texas**
-- 🚀 I’m currently learning **Vite and Browser Extension**
+- 🚀 I’m currently learning **Browser Extension and Golang**
 - 💬 Ask me about **React, TypeScript, Node, and Golang**
 - 😃 Moreover: I'm always looking for something to do
 
@@ -25,11 +25,13 @@ MongoDB       ███████████████████░░░
 Redis         ████████████████░░░░░░░░░
 ```
 
-📊 **Frameworks / Runtimes**
+📊 **Frameworks / Runtimes / Specs**
 ```
 React         █████████████████████████
 Node          █████████████████████████
-Django        ███████████████████░░░░░░
+GraphQL       ███████████████████░░░░░░
+REST          ███████████████████░░░░░░
+Django        █████████████░░░░░░░░░░░░
 Wordpress     █████████████░░░░░░░░░░░░
 
 ```
