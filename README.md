@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Michael Li.</h2>
 
 - 🛠 I’m currently working at an eCommerce Company for Full Stack Developer in **Houston, Texas**
-- 🚀 I’m currently learning **Browser Extension and Golang**
+- 🚀 I’m currently learning **Dart, Golang, and Flutter**
 - 💬 Ask me about **React, TypeScript, Node, and Golang**
 - 😃 Moreover: I'm always looking for something to do
 
