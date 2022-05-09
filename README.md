@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm Michael Li.</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-tamu)](https://github.com/anuraghazra/github-readme-stats)
+
+![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-tamu&count_private=true)
 
 
 - 🛠 I’m currently working at an eCommerce Company for Full Stack Developer in **Houston, Texas**
