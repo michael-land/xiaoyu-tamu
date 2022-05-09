@@ -7,9 +7,7 @@
 - 😃 Moreover: I'm always looking for something to do
 
 
-<div align="center">
 ![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-tamu&count_private=true)
-</div>
 
 
 📊 **Languages**
