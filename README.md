@@ -2,7 +2,7 @@
 
 
 - 🛠 I’m currently working at an eCommerce Company for Full Stack Developer in **Houston, Texas**
-- 🚀 I’m currently learning **Golang, C, Lua, Control4 and Flutter**
+- 🚀 I’m currently learning **Golang, C, Lua and Flutter**
 - 💬 Ask me about **React, TypeScript, Node, and Golang**
 - 😃 Moreover: I'm always looking for something to do
 
